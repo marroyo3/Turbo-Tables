@@ -1,10 +1,11 @@
 html{
-    background: linear-gradient(300deg, #1919e5 0%, #ff811b) 50%, #1df124 100%);
+    background: linear-gradient(300deg, #0e12e5 0%, #f4a30c) 50%, #01f309 100%);
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;}
+    box-sizing: border-box;
+}
 #container{
     height:500px;
     width: 700px;
@@ -160,5 +161,3 @@ html{
     z-index: 2;
 
 }
-
-
