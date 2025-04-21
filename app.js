@@ -1,4 +1,4 @@
-var playing = false;
+var playing = false; 
 var score;
 var action;
 var timeremaining;
